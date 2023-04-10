@@ -4,7 +4,7 @@
 }
 
 .top-bar {
-  background-color: black;
+  background-color: indigo;
   color: #fff;
   padding: 1rem 2rem;
   text-align: center;
@@ -15,8 +15,8 @@
 }
 
 .heroP {
-  background-color: purple;
-  color: #4B0082;
+  background-color: indigo;
+  color: #fff;
   padding-inline: 10rem;
   padding-top: 3rem;
   text-align: center;
